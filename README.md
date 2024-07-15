@@ -7,4 +7,4 @@ In order to work with these TREBLE files, you must have your file structure set 
 - A folder containing the CSV files of your controls
 - A folder containing the CSV files of your experimentals
 
-You should never need to modify any code, only some names of files and paths. Simply run each block in TREBLE_CE.Rmd one at a time, fill in any file paths or names it asks you for, and update the name of a file anywhere you see ###&&&Change_path&&&###
+You should never need to modify any code, only some names of files and paths. Simply run each block in TREBLE_CE.Rmd one at a time, fill in any file paths or names it asks you for, and update the name of a file anywhere you see ###&&&Change_path&&&###. You will NEVER need to modify treble_functions_220321.R
