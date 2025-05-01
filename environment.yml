@@ -1,0 +1,17 @@
+name: treble
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - pip>=23
+  - python=3.13
+  - scipy
+  - seaborn
+  - matplotlib
+  - umap-learn
+  - scikit-learn
+  - networkx
+  - pip:
+    - python-louvain
